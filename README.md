@@ -1,13 +1,14 @@
 
 ### Links
 
-- Live Site: [Demo](https://equalizer-landing-page-pink.vercel.app/)
+- Live Site: [Demo]()
 
 ### Built with
 
 - Semantic HTML5 markup
 - SCSS properties
 - Flexbox
+- Grid
 - Mobile-first workflow
 
  
